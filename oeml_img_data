@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <imageData>
   <images>
-    <image id="6619a4dd-139b-414d-9d8a-4e27acd3af90">
-      <articleId>Boruttau_Alfred</articleId>
-      <imagePath>Boruttau_Alfred.jpg</imagePath>
+    <image id="3dc377b3-3dc5-4358-b301-39f608f563ab">
+      <filename>Rabensteiner.xml</filename>
+      <articleId>Rabensteiner</articleId>
+      <imagePath>Rabensteiner_1896.jpg</imagePath>
       <metadata>
-        <title>Alfred Boruttau</title>
+        <title>Rabensteiner</title>
         <photographer></photographer>
         <license></license>
         <year></year>
@@ -13,31 +14,13 @@
         <notes></notes>
       </metadata>
       <crop>
-        <x>29</x>
-        <y>39</y>
-        <width>545</width>
-        <height>545</height>
+        <x>111</x>
+        <y>10</y>
+        <width>473</width>
+        <height>473</height>
       </crop>
-      <modified>2026-04-09T12:45:37.716Z</modified>
-    </image>
-    <image id="8df031f7-f9cc-4cbe-b58b-bc3dabc4585f">
-      <articleId>Richter_Josef_Karl</articleId>
-      <imagePath>Richter_Josef_Karl.jpg</imagePath>
-      <metadata>
-        <title>Josef Karl Richter</title>
-        <photographer></photographer>
-        <license></license>
-        <year></year>
-        <source></source>
-        <notes></notes>
-      </metadata>
-      <crop>
-        <x>0</x>
-        <y>34</y>
-        <width>528</width>
-        <height>529</height>
-      </crop>
-      <modified>2026-04-09T12:51:54.955Z</modified>
+      <rotation>0</rotation>
+      <modified>2026-04-09T13:14:40.557Z</modified>
     </image>
   </images>
 </imageData>
