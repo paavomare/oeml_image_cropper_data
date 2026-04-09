@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imageData>
+  <images>
+    <image id="6619a4dd-139b-414d-9d8a-4e27acd3af90">
+      <articleId>Boruttau_Alfred</articleId>
+      <imagePath>Boruttau_Alfred.jpg</imagePath>
+      <metadata>
+        <title>Alfred Boruttau</title>
+        <photographer></photographer>
+        <license></license>
+        <year></year>
+        <source></source>
+        <notes></notes>
+      </metadata>
+      <crop>
+        <x>29</x>
+        <y>39</y>
+        <width>545</width>
+        <height>545</height>
+      </crop>
+      <modified>2026-04-09T12:45:37.716Z</modified>
+    </image>
+  </images>
+</imageData>
