@@ -20,5 +20,24 @@
       </crop>
       <modified>2026-04-09T12:45:37.716Z</modified>
     </image>
+    <image id="8df031f7-f9cc-4cbe-b58b-bc3dabc4585f">
+      <articleId>Richter_Josef_Karl</articleId>
+      <imagePath>Richter_Josef_Karl.jpg</imagePath>
+      <metadata>
+        <title>Josef Karl Richter</title>
+        <photographer></photographer>
+        <license></license>
+        <year></year>
+        <source></source>
+        <notes></notes>
+      </metadata>
+      <crop>
+        <x>0</x>
+        <y>34</y>
+        <width>528</width>
+        <height>529</height>
+      </crop>
+      <modified>2026-04-09T12:51:54.955Z</modified>
+    </image>
   </images>
 </imageData>
