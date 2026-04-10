@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<image id="899ca5f8-76c2-4bb8-b994-a581ab3c1567">
-  <filename>Schoenberg_Heinrich.xml</filename>
-  <articleId>Schoenberg_Heinrich</articleId>
-  <imagePath>Schoenberg_Heinrich.jpg</imagePath>
-  <metadata>
-    <title>Heinrich Schönberg</title>
-    <photographer></photographer>
-    <license></license>
-    <year></year>
-    <source></source>
-    <notes></notes>
-  </metadata>
-  <crop>
-    <x>0</x>
-    <y>218</y>
-    <width>606</width>
-    <height>606</height>
-  </crop>
-  <rotation>0</rotation>
-  <modified>2026-04-10T12:55:14.598Z</modified>
-</image>
+<surface xml:id="img_899ca5f8-76c2-4bb8-b994-a581ab3c1567" n="Schoenberg_Heinrich">
+  <desc type="filename">Schoenberg_Heinrich.xml</desc>
+  <desc type="title">Heinrich Schönberg</desc>
+  <graphic url="500_images/Schoenberg_Heinrich.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="218" lrx="606" lry="824" rotate="0"/>
+  <desc type="modified">2026-04-10T15:43:37.859Z</desc>
+</surface>
