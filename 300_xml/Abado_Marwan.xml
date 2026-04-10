@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<image id="b2f88103-7f21-4191-bc22-be3cbdc51ed7">
-  <filename>Abado_Marwan.xml</filename>
-  <articleId>Abado_Marwan</articleId>
-  <imagePath>Abado_Marwan_2024.jpg</imagePath>
-  <metadata>
-    <title>Marwan Abado</title>
-    <photographer></photographer>
-    <license></license>
-    <year></year>
-    <source></source>
-    <notes></notes>
-  </metadata>
-  <crop>
-    <x>157</x>
-    <y>0</y>
-    <width>630</width>
-    <height>630</height>
-  </crop>
-  <rotation>0</rotation>
-  <modified>2026-04-10T12:54:36.487Z</modified>
-</image>
+<surface xml:id="img_b2f88103-7f21-4191-bc22-be3cbdc51ed7" n="Abado_Marwan">
+  <desc type="filename">Abado_Marwan.xml</desc>
+  <desc type="title">Marwan Abado</desc>
+  <graphic url="500_images/Abado_Marwan_2024.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="157" uly="0" lrx="787" lry="630" rotate="0"/>
+  <desc type="modified">2026-04-10T15:43:34.083Z</desc>
+</surface>
