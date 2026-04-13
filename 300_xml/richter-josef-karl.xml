@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_54947b6d-6f12-4459-9562-5f7ad1f8ce79" n="richter-josef-karl">
+  <desc type="filename">richter-josef-karl.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Richter_Josef_Karl.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
