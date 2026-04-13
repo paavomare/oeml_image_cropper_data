@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_64551741-934b-4a1a-ad72-908d310ff3be" n="cahier-sarah-carmen">
+  <desc type="filename">cahier-sarah-carmen.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Cahier_Sarah_Carmen.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
