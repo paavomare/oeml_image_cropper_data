@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f86fa8bc-20d0-41b5-8730-ceb5fc3c1603" n="austen-louie">
+  <desc type="filename">austen-louie.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Austen_Louie.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
