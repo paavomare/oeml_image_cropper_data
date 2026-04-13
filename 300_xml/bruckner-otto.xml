@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_09f0e73d-7f4f-469b-9c83-e2318565ad54" n="bruckner-otto">
+  <desc type="filename">bruckner-otto.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Bruckner_Otto.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
