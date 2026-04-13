@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d73bdbd1-9a85-4f0e-aee8-2c3fe9546c11" n="schoenberg-ehepaar">
+  <desc type="filename">schoenberg-ehepaar.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Schoenberg_Ehepaar.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
