@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8aec8ae5-3460-4187-9cb8-eb9b92d78635" n="rabensteiner-1896">
+  <desc type="filename">rabensteiner-1896.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Rabensteiner_1896.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
