@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_22d55920-494d-4865-8065-d8f10c76f94a" n="brauer-timna">
+  <desc type="filename">brauer-timna.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Brauer_Timna.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
