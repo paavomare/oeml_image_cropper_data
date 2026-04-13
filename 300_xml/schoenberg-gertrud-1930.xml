@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_111c0330-bfbc-415b-a80d-2b8f889516cf" n="schoenberg-gertrud-1930">
+  <desc type="filename">schoenberg-gertrud-1930.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Schoenberg_Gertrud_1930.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
