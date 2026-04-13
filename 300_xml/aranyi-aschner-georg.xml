@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_18db899b-7115-4206-b3b5-8b8b94804cbf" n="aranyi-aschner-georg">
+  <desc type="filename">aranyi-aschner-georg.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Aranyi-Aschner_Georg.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
