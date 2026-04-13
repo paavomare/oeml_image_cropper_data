@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5e61f90d-4f58-4a10-a597-23c37291453d" n="bakanic-christian-porgy">
+  <desc type="filename">bakanic-christian-porgy.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Bakanic_Christian_Porgy.JPG">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
