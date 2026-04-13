@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_07f9698e-e9c3-4c33-802c-aeb5963303fe" n="brueggemann-tanja">
+  <desc type="filename">brueggemann-tanja.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Brueggemann_Tanja.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
