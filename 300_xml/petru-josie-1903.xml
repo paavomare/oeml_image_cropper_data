@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a9b9b297-95be-4145-987a-6d1f84444046" n="petru-josie-1903">
+  <desc type="filename">petru-josie-1903.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Petru_Josie_1903.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
