@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e2fd0f6d-f058-4fd5-801b-7f08df44eddc" n="cornelius-peter">
+  <desc type="filename">cornelius-peter.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Cornelius_Peter.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="0" lrx="618" lry="600" rotate="0"/>
+  <desc type="modified">2026-04-13T13:27:32.707Z</desc>
+</surface>
