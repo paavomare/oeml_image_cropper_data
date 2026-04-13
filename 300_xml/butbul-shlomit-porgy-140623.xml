@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cfbc8f4c-0933-4076-91e4-c641056318aa" n="butbul-shlomit-porgy-140623">
+  <desc type="filename">butbul-shlomit-porgy-140623.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Butbul_Shlomit_Porgy_140623.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
