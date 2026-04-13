@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8962ad9a-3844-49de-97a9-2ddf0193dffc" n="boruttau-alfred">
+  <desc type="filename">boruttau-alfred.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Boruttau_Alfred.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
