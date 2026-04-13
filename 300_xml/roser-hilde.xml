@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_84464620-540e-470d-8de8-7981259365bc" n="roser-hilde">
+  <desc type="filename">roser-hilde.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Roser_Hilde.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="235" lrx="700" lry="935" rotate="0"/>
+  <desc type="modified">2026-04-13T13:27:54.611Z</desc>
+</surface>
