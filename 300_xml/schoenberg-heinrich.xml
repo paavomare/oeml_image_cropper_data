@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_09970852-c7c0-4df2-85b1-25d0edb10d67" n="schoenberg-heinrich">
+  <desc type="filename">schoenberg-heinrich.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Schoenberg_Heinrich.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
