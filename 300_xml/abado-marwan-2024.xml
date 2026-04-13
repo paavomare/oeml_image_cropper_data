@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_953e15e6-e743-448c-af36-67527abf4c9f" n="abado-marwan-2024">
+  <desc type="filename">abado-marwan-2024.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Abado_Marwan_2024.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
