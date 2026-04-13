@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f79c0d63-3f8e-468b-bb3f-82d75aebe2b2" n="calori-virgilio">
+  <desc type="filename">calori-virgilio.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Calori_Virgilio.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
