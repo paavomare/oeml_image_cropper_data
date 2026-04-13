@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cf4c8de3-ccca-46cf-8108-e003a322d490" n="spetrino-francesco">
+  <desc type="filename">spetrino-francesco.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Spetrino_Francesco.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
