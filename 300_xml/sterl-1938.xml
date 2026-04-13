@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d60dd6c0-710b-4a21-a5ec-c1f78342a886" n="sterl-1938">
+  <desc type="filename">sterl-1938.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Sterl_1938.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="603" lry="603" rotate="0"/>
+  <desc type="modified">2026-04-13T13:28:18.511Z</desc>
+</surface>
