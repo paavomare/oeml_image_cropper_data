@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b070800f-6f32-4749-9b02-e546e4401652" n="pauspertl-karl-sulz">
+  <desc type="filename">pauspertl-karl-sulz.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Pauspertl_Karl_Sulz.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
+  <desc type="modified"></desc>
+</surface>
