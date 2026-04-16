@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c2273527-e7b0-4da6-a14d-66b9c9616a76" n="abbado-claudio">
+  <desc type="filename">abbado-claudio.xml</desc>
+  <desc type="title"></desc>
+  <graphic url="500_images/Abbado_Claudio_1.jpg">
+    <desc type="copyright">
+      <name></name>
+      <date></date>
+    </desc>
+    <desc type="license"></desc>
+    <desc type="source"></desc>
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="1635" lry="1635" rotate="0"/>
+  <desc type="modified">2026-04-16T08:37:29.853Z</desc>
+</surface>
