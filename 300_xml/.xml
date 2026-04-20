@@ -10,6 +10,6 @@
     <desc type="license"></desc>
     <desc type="source"></desc>
   </graphic>
-  <zone type="medallionCrop" ulx="0" uly="0" lrx="0" lry="0" rotate="0"/>
-  <desc type="modified"></desc>
+  <zone type="medallionCrop" ulx="0" uly="364" lrx="1635" lry="1999" rotate="-90"/>
+  <desc type="modified">2026-04-20T08:56:25.861Z</desc>
 </surface>
